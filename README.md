@@ -1,6 +1,6 @@
 # MQTT_Project
 ## Descrição
-Projeto utilizando Python como client MQTT.
+Projeto utilizando Python e NodeMCU para comunicação MQTT.
 
 ###### Arquivo pub_client
 Publica mensagem "ON" ou "OFF" para ligar/desligar LED.
