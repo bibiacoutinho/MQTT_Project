@@ -1,2 +1,2 @@
 # MQTT_Project
-Projeto utilizando Python e C para comunicação MQTT.
+Projeto utilizando Python como client MQTT.
