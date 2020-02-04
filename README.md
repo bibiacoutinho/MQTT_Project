@@ -16,12 +16,12 @@ Firmware do NodeMCU ESP8266 que subscreve comandos e publica status do LED ao pr
 - Arduino 1.8.9, bibliotecas ESP8266WiFi.h e PubSubClient.h
 
 ###### Instalando paho-mqtt
-'''
+```
 pip install paho-mqtt
-'''
+```
 
 ###### Instalando ESP8266WiFi.h
 Arduino > Preferências > URLS adicionais : http://arduino.esp8266.com/stable/package_esp8266com_index.json > OK
 
 ###### Instalando PubSubClient.h
-Download do arquivo PubSubClient-2.7.0 e inserir na pasta libraries do Arduino
+Download da pasta PubSubClient-2.7.0 e inserir na pasta "libraries" do Arduino
